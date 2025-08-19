@@ -1,0 +1,38 @@
+body {
+  background: lightblue;
+  color: #2e4a98;
+  padding: 40px;
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+a {
+  color: #2e4a98;
+}
+
+img {
+  height: 10%;
+  width: 15%;
+  border: solid #2e4a98 1px;
+  border-radius: 50%;
+}
+
+.box {
+  align-items: center;
+  text-align: justify;
+  gap: 5%;
+  display: flex;
+  margin: 2%;
+  border: solid #2e4a98 2px;
+  padding: 3%;
+  border-radius: 7px;
+  font-family: "Unna", serif;
+}
+
+.section-title {
+  font-family: "Sour Gummy", sans-serif;
+}
+.subsection-title {
+  padding-left: 5%;
+  font-family: "Sour Gummy", sans-serif;
+}
