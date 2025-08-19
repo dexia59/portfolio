@@ -15,6 +15,7 @@ img {
   width: 15%;
   border: solid #2e4a98 1px;
   border-radius: 50%;
+  background-color: white;
 }
 
 .box {
