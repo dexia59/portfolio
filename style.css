@@ -17,6 +17,10 @@ img {
   border-radius: 50%;
   background-color: white;
 }
+footer {
+    text-align: center;
+    font-family: "Sour Gummy", sans-serif;
+}
 
 .box {
   align-items: center;
